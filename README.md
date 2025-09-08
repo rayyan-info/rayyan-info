@@ -31,5 +31,5 @@
 
 ---
 ## توسعه دهندگان
-  <a href="https://example.com/left" style="float: left;">محمد پورصالح</a>
-  <a href="https://example.com/right" style="float: right;">محمد طاها باطومی</a>
+  <a href="https://github.com/PrsD3v" style="float: left;">محمد پورصالح</a>
+  <a href="https://github.com/MohammadTahaBatoomi" style="float: right;">محمد طاها باطومی</a>
