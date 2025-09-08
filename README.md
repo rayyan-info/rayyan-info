@@ -32,4 +32,5 @@
 ---
 ## توسعه دهندگان
   <a href="https://github.com/PrsD3v" style="float: left;">محمد پورصالح</a>
+  <br />
   <a href="https://github.com/MohammadTahaBatoomi" style="float: right;">محمد طاها باطومی</a>
