@@ -31,7 +31,7 @@
 
 ---
 ## توسعه دهندگان
-<p align="center">
+<p align="">
   <a href="https://example.com/left" style="float: left;">محمد پورصالح</a>
   <a href="https://example.com/right" style="float: right;">محمد طاها باطومی</a>
 </p>
